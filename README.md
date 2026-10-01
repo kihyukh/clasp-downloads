@@ -9,8 +9,9 @@ and collaborate in shared workspaces. Sign in inside the app to get started.
 
 ## Install
 
-- **Mac:** Apple Silicon or Intel, macOS 13 or later. The universal v1.1.1 DMG is
-  awaiting Apple notarization; check the release notes for availability.
+- **Mac:** Apple Silicon or Intel, macOS 13 or later. Open the universal DMG and
+  drag Clasp into Applications. The app and installer are Developer ID signed
+  and notarized by Apple.
 - **Windows:** Windows 10 or later, Intel/AMD x64. Run the `.exe` installer. The
   initial Windows release is unsigned, so Windows may show an unknown publisher
   warning. Installation is per-user; uninstalling preserves your workspace data.
