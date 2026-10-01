@@ -2,7 +2,7 @@
 
 A desktop workspace for academic papers and Markdown notes.
 
-[Website](https://clasp-research.kihyukh.chatgpt.site/) · [Downloads](https://github.com/kihyukh/clasp-downloads/releases) · [Report an issue](https://github.com/kihyukh/clasp-downloads/issues)
+[Website](https://kihyukh.github.io/clasp-downloads/) · [Downloads](https://github.com/kihyukh/clasp-downloads/releases) · [Report an issue](https://github.com/kihyukh/clasp-downloads/issues)
 
 Read PDFs beside your notes, highlight and cite passages, connect research ideas,
 and collaborate in shared workspaces. Sign in inside the app to get started.
