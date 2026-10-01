@@ -9,7 +9,7 @@ and collaborate in shared workspaces. Sign in inside the app to get started.
 
 ## Install
 
-- **Mac:** Apple Silicon (M1 or newer), macOS 13 or later. The v1.1.1 download is
+- **Mac:** Apple Silicon or Intel, macOS 13 or later. The universal v1.1.1 DMG is
   awaiting Apple notarization; check the release notes for availability.
 - **Windows:** Windows 10 or later, Intel/AMD x64. Run the `.exe` installer. The
   initial Windows release is unsigned, so Windows may show an unknown publisher
