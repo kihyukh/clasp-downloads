@@ -9,14 +9,17 @@ and collaborate in shared workspaces. Sign in inside the app to get started.
 
 ## Install
 
-- **Mac 1.1.17:** macOS 13 or later. Choose the smaller [Apple Silicon installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17/Clasp-1.1.17-mac-arm64.dmg)
-  or [Intel installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17/Clasp-1.1.17-mac-x64.dmg)
+The current installers contain the 1.1.17 stability hotfix. The app version stays
+1.1.17; the original 1.1.17 installer URLs remain available and unchanged.
+
+- **Mac 1.1.17:** macOS 13 or later. Choose the smaller [Apple Silicon installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17-hotfix.1/Clasp-1.1.17-mac-arm64.dmg)
+  or [Intel installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17-hotfix.1/Clasp-1.1.17-mac-x64.dmg)
   for your Mac. Check Apple menu → About This Mac to identify your chip. A
-  [universal installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17/Clasp-1.1.17-mac-universal.dmg)
+  [universal installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17-hotfix.1/Clasp-1.1.17-mac-universal.dmg)
   is also available for both. Open the DMG and drag Clasp into Applications.
   The app and disk images are Developer ID signed and notarized by Apple.
 - **Windows 1.1.17:** Windows 10 or later, Intel/AMD x64. Run the
-  [Windows installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17/Clasp-1.1.17-windows-x64.exe).
+  [Windows installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17-hotfix.1/Clasp-1.1.17-windows-x64.exe).
   This release is unsigned, so Windows may show an unknown publisher
   warning. Installation is per-user; uninstalling preserves your workspace data.
 
