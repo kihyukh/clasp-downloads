@@ -9,10 +9,11 @@ and collaborate in shared workspaces. Sign in inside the app to get started.
 
 ## Install
 
-The current installers contain the 1.1.17 stability hotfix. The app version stays
-1.1.17; the original 1.1.17 installer URLs remain available and unchanged.
+[Clasp in your browser](https://kihyukh.github.io/clasp/app/) is now at version
+1.1.18, with smoother shared editing and new formatting options. Mac and Windows
+downloads remain at 1.1.17. Earlier installer URLs remain available and unchanged.
 
-- **Mac 1.1.17:** macOS 13 or later. Choose the smaller [Apple Silicon installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17-hotfix.1/Clasp-1.1.17-mac-arm64.dmg)
+- **Mac:** Version 1.1.17 for Apple Silicon, Intel and Universal. macOS 13 or later. Choose the smaller [Apple Silicon installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17-hotfix.1/Clasp-1.1.17-mac-arm64.dmg)
   or [Intel installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17-hotfix.1/Clasp-1.1.17-mac-x64.dmg)
   for your Mac. Check Apple menu → About This Mac to identify your chip. A
   [universal installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17-hotfix.1/Clasp-1.1.17-mac-universal.dmg)
@@ -27,8 +28,9 @@ Download installers and their SHA-256 checksum files from the same release.
 On Windows, use `Get-FileHash <installer> -Algorithm SHA256`; on Mac, use
 `shasum -a 256 <archive>` to compare the downloaded file with its checksum.
 
-Your first sign-in and workspace download need an internet connection. Previously
-cached workspaces and notes remain available offline. The Chrome connector
+Your first sign-in and workspace download need an internet connection. In the
+desktop app, previously cached workspaces and notes remain available offline. The
+browser app needs an internet connection to open a workspace. The Chrome connector
 currently supports macOS; use **Add papers** in Clasp on Windows.
 
 This repository contains official download assets and installation notes.
