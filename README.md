@@ -10,22 +10,21 @@ and collaborate in shared workspaces. Sign in inside the app to get started.
 ## Install
 
 [Clasp in your browser](https://kihyukh.github.io/clasp/app/) is now at version
-1.1.18, with smoother shared editing and new formatting options. Apple Silicon
-Mac downloads are now also at 1.1.18. Intel Mac, Universal and Windows downloads
-remain at 1.1.17. Earlier installer URLs remain available and unchanged.
+1.1.18, with smoother shared editing and new formatting options. Mac and Windows
+downloads are also at 1.1.18. Earlier installer URLs remain available and unchanged.
 
-- **Mac:** Apple Silicon version 1.1.18; Intel and Universal version 1.1.17. macOS 13 or later. Choose the smaller [Apple Silicon 1.1.18 installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.18/Clasp-1.1.18-mac-arm64.dmg)
-  or [Intel 1.1.17 installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17-hotfix.1/Clasp-1.1.17-mac-x64.dmg)
+- **Mac 1.1.18:** Apple Silicon, Intel and Universal installers. macOS 13 or later. Choose the smaller [Apple Silicon 1.1.18 installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.18/Clasp-1.1.18-mac-arm64.dmg)
+  or [Intel 1.1.18 installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.18/Clasp-1.1.18-mac-x64.dmg)
   for your Mac. Check Apple menu → About This Mac to identify your chip. A
-  [Universal 1.1.17 installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17-hotfix.1/Clasp-1.1.17-mac-universal.dmg)
+  [Universal 1.1.18 installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.18/Clasp-1.1.18-mac-universal.dmg)
   is also available for both. Open the DMG and drag Clasp into Applications.
   The app and disk images are Developer ID signed and notarized by Apple.
-- **Windows 1.1.17:** Windows 10 or later, Intel/AMD x64. Run the
-  [Windows installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17-hotfix.1/Clasp-1.1.17-windows-x64.exe).
+- **Windows 1.1.18:** Windows 10 or later, Intel/AMD x64. Run the
+  [Windows installer](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.18/Clasp-1.1.18-windows-x64.exe).
   This release is unsigned, so Windows may show an unknown publisher
   warning. Installation is per-user; uninstalling preserves your workspace data.
 
-SHA-256 checksums: [Apple Silicon 1.1.18](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.18/Clasp-1.1.18-mac-arm64.dmg.sha256) · [Intel 1.1.17](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17-hotfix.1/Clasp-1.1.17-mac-x64.dmg.sha256) · [Universal 1.1.17](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17-hotfix.1/Clasp-1.1.17-mac-universal.dmg.sha256) · [Windows 1.1.17](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.17-hotfix.1/Clasp-1.1.17-windows-x64.exe.sha256).
+SHA-256 checksums: [Apple Silicon 1.1.18](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.18/Clasp-1.1.18-mac-arm64.dmg.sha256) · [Intel 1.1.18](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.18/Clasp-1.1.18-mac-x64.dmg.sha256) · [Universal 1.1.18](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.18/Clasp-1.1.18-mac-universal.dmg.sha256) · [Windows 1.1.18](https://github.com/kihyukh/clasp-downloads/releases/download/v1.1.18/Clasp-1.1.18-windows-x64.exe.sha256).
 On Windows, use `Get-FileHash <installer> -Algorithm SHA256`; on Mac, use
 `shasum -a 256 <archive>` to compare the downloaded file with its checksum.
 
